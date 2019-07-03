@@ -11,7 +11,7 @@ import (
 
 func main() {
 
-	items := []string{"./ken_all1.csv", "./ken_all2.csv", "./ken_all3.csv"}
+	items := []string{"./ken_all1.csv"}
 
 	// シングルスレッドの場合
 	/*
